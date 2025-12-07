@@ -26,7 +26,7 @@ Drivers/Dependencies	:MongoDB Java Driver
 
 🔧 Setup & Installation
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/FeedbackSurveySystem.git
+git clone https://github.com/shaikmazeedmahammad/givi_project/tree/main
 cd FeedbackSurveySystem
 
 
