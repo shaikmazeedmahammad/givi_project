@@ -1,6 +1,6 @@
 📌 Feedback Survey System – README
-📖 Project Overview
 
+📖 Project Overview
 The Feedback Survey System is a Java-based application designed to collect and analyze user feedback efficiently.
 It provides structured storage of survey data and supports generating visual and statistical summaries of responses.
 
@@ -12,10 +12,12 @@ Supports graphical representation of results
 Uses MongoDB for backend data storage
 
 📂 Repository Structure
+
 ├── src/
 │   └── FeedbackSurveySystem.java     # Main application file
 ├── lib/                              # External dependencies (MongoDB driver JARs)
 ├── README.md                         # Project documentation
+
 
 🛠️ Technologies Used
 Component	Technology
@@ -26,20 +28,16 @@ Drivers/Dependencies	:MongoDB Java Driver
 
 🔧 Setup & Installation
 1️⃣ Clone the Repository
-git clone https://github.com/shaikmazeedmahammad/givi_project/tree/main
+git clone https://github.com/shaikmazeedmahammad/-FeedbackSurveySystem
 cd FeedbackSurveySystem
 
 
 2️⃣ Add Required Libraries
-
 Ensure lib/ folder contains the following JARs:
 
 bson-4.10.2.jar
-
 mongodb-driver-core-4.10.2.jar
-
 mongodb-driver-sync-4.10.2.jar
-
 
 
 3️⃣ Compile the Project
